@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "Jugendreisen Trial Large";
+	src: url("fonts/JugendreisenTrial-Large.woff2") format("woff2"),
+		url("fonts/JugendreisenTrial-Large.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Jugendreisen Trial";
+	src: url("fonts/JugendreisenTrial-Medium.woff2") format("woff2"),
+		url("fonts/JugendreisenTrial-Medium.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Jugendreisen-Small";
+	src: url("fonts/Jugendreisen-Small.woff2") format("woff2"),
+		url("fonts/Jugendreisen-Small.woff") format("woff");
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
