@@ -1,0 +1,12 @@
+@font-face {
+	font-family: "Abitare";
+	src: url("fonts/abitare-sans-0-wt.woff2") format("woff2");
+	font-weight: 100;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Abitare";
+	src: url("fonts/abitare-sans-700-wt.woff2") format("woff2");
+	font-weight: 700;
+	font-display: swap;
+}
