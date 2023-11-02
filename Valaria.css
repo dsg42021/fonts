@@ -1,0 +1,34 @@
+@font-face {
+	font-family: "Eina 01";
+	src: url("fonts/Eina01-Bold.eot");
+	src: url("fonts/Eina01-Bold.latin.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Eina 01";
+	src: url("fonts/Eina01-Regular.eot");
+	src: url("fonts/Eina01-Regular.latin.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: "Editors Note";
+	src: url("fonts/EditorsNote-Bold.eot.eot");
+	src: url("fonts/EditorsNote-Bold.latin.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: "Editors Note";
+	src: url("fonts/EditorsNote-Regular.eot");
+	src: url("fonts/EditorsNote-Regular.latin.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
