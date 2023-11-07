@@ -1,7 +1,7 @@
 @font-face {
 	font-family: "Pill Gothic";
 	src: url("fonts/Pill-Gothic-300mg-Regular.eot");
-	src: url("fonts/Pill-Gothic-300mg-Regular.ttf"),
+	src: url("fonts/Pill-Gothic-300mg-Regular.ttf") format("truetype"),
 	url("fonts/Pill-Gothic-300mg-Regular.latin.woff") format("woff");
 	font-weight: 400;
 	font-style: normal;
@@ -11,7 +11,7 @@
 @font-face {
 	font-family: "Pill Gothic";
 	src: url("fonts/Pill-Gothic-300mg-Bold.eot");
-	src: url("fonts/Pill-Gothic-300mg-Bold.ttf"),
+	src: url("fonts/Pill-Gothic-300mg-Bold.ttf") format("truetype"),
 	url("fonts/Pill-Gothic-300mg-Bold.latin.woff") format("woff");
 	font-weight: 700;
 	font-style: normal;
