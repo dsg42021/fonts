@@ -1,5 +1,5 @@
 @font-face {
-	font-family: "Pill Gothic 300mg Regular";
+	font-family: "Pill Gothic 300mg";
 	src: url("https://luminous-malasada-917821.netlify.app/fonts/Pill-Gothic-300mg-Regular.eot");
 	src: url("https://luminous-malasada-917821.netlify.app/fonts/Pill-Gothic-300mg-Regular.woff") format("woff"),
 	url("https://luminous-malasada-917821.netlify.app/fonts/Pill-Gothic-300mg-Regular.ttf") format("truetype"),
@@ -10,7 +10,7 @@
 }
 
 @font-face {
-	font-family: "Pill Gothic";
+	font-family: "Pill Gothic 300mg";
 	src: url("https://luminous-malasada-917821.netlify.app/fonts/Pill-Gothic-300mg-Bold.eot");
 	src: url("https://luminous-malasada-917821.netlify.app/fonts/Pill-Gothic-300mg-Bold.woff") format("woff"),
 	url("https://luminous-malasada-917821.netlify.app/fonts/Pill-Gothic-300mg-Bold.ttf") format("truetype"),
