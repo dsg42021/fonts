@@ -2,7 +2,10 @@
 	font-family: "Pill Gothic";
 	src: url("fonts/Pill-Gothic-300mg-Regular.eot");
 	src: url("fonts/Pill-Gothic-300mg-Regular.ttf") format("truetype"),
-	url("fonts/Pill-Gothic-300mg-Regular.latin.woff") format("woff");
+	url("fonts/Pill-Gothic-300mg-Regular.otf") format("opentype"),
+	url("fonts/Pill-Gothic-300mg-Regular.latin.woff") format("woff")
+	url("fonts/Pill-Gothic-300mg-Regular.latin.woff2") format("woff2"),
+	;
 	font-weight: 400;
 	font-style: normal;
 	font-display: swap;
@@ -12,7 +15,9 @@
 	font-family: "Pill Gothic";
 	src: url("fonts/Pill-Gothic-300mg-Bold.eot");
 	src: url("fonts/Pill-Gothic-300mg-Bold.ttf") format("truetype"),
-	url("fonts/Pill-Gothic-300mg-Bold.latin.woff") format("woff");
+	url("fonts/Pill-Gothic-300mg-Bold.otf") format("opentype"),
+	url("fonts/Pill-Gothic-300mg-Bold.latin.woff") format("woff"),
+	url("fonts/Pill-Gothic-300mg-Bold.latin.woff2") format("woff2");
 	font-weight: 700;
 	font-style: normal;
 	font-display: swap;
